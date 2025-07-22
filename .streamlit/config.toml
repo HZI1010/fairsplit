@@ -1,0 +1,8 @@
+[theme]
+# A sky blue theme
+primaryColor="#FF5733" # A vibrant reddish-orange for buttons
+backgroundColor="#E0F7FA" # A light sky blue
+secondaryBackgroundColor="#FFEADD" # A light reddish-orange for input boxes
+textColor="#262730" # Dark text for readability
+font="sans serif"
+
